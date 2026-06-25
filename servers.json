@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "server_b",
+      "name": "Antusa Sro",
+      "category": "vip",
+      "description": "High Rate sunucu.\nCap: 120 | Exp Rate: PvP\nVersiyon: v2.1.0",
+      "status": "online",
+      "website": "https://sunucub.example.com",
+      "discord": "https://discord.gg/example2",
+      "drive_file_id": "1J9Ikhhyd6Y0iYaUbpsn_S4QLoc9u4jui",
+      "file_name": "60HzAylin Clawrand (Antusa Sro).rar",
+      "file_size": "2 GB"
+    },
+    {
+      "id": "server_e",
+      "name": "GoatGames",
+      "category": "vip",
+      "description": "Standart Silkroad sunucusu.\nCap: 90 | Exp Rate: PvP\nVersiyon: v1.0.0",
+      "status": "offline",
+      "website": "https://example.com",
+      "discord": "https://discord.gg/example",
+      "drive_file_id": "1G3wxe1C6pRsOPDLPDx4cnUcUApsgsPRR",
+      "file_name": "60HzAylin Clawrand (GoatGames).rar",
+      "file_size": "2 GB"
+    },
+    {
+      "id": "server_a",
+      "name": "ExSRO",
+      "category": "standart",
+      "description": "Klasik Silkroad deneyimi.\nCap: 120 | Exp Rate: PvP\nVersiyon: v1.0.0",
+      "status": "online",
+      "website": "https://sunucua.example.com",
+      "discord": "https://discord.gg/example",
+      "drive_file_id": "1KVMv1T2H1JETa680xtz2-NXTn4LzRCTR",
+      "file_name": "60HzAylin Clawrand (ExSRO).rar",
+      "file_size": "2 GB"
+    },
+    {
+      "id": "server_c",
+      "name": "JSRO Jayanora",
+      "category": "standart",
+      "description": "Standart Silkroad sunucusu.\nCap: 80 | Exp Rate: PvP\nVersiyon: v1.0.0",
+      "status": "online",
+      "website": "https://example.com",
+      "discord": "https://discord.gg/example",
+      "drive_file_id": "1Y99RfOQfAXHVaIbbUv7HsI9h6gaiQF5P",
+      "file_name": "60HzAylin Clawrand (JSRO Jayanora).rar",
+      "file_size": "2 GB"
+    }
+  ]
+}
