@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "servers": [
     {
       "id": "server_b",
@@ -18,7 +18,7 @@
       "name": "GoatGames",
       "category": "vip",
       "description": "Standart Silkroad sunucusu.\nCap: 90 | Exp Rate: PvP\nVersiyon: v1.0.0",
-      "status": "offline",
+      "status": "online",
       "website": "https://example.com",
       "discord": "https://discord.gg/example",
       "drive_file_id": "1G3wxe1C6pRsOPDLPDx4cnUcUApsgsPRR",
